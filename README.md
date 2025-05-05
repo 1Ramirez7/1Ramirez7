@@ -11,7 +11,7 @@ Brigham Young University–Idaho (Expected July 2025)
 
 - 📧 [Eduardo.er.ramirez@gmail.com](mailto:Eduardo.er.ramirez@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/eduardo-ramirez-31198b1b8)  
-- 🌐 [Portfolio](https://1ramirez7.github.io/Portfolio_)
+- 🌐 [Portfolio](https://1ramirez7.github.io/)
 
 <!--
 **1Ramirez7/1Ramirez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
