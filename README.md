@@ -2,7 +2,7 @@
 
 🎓 **B.Sc. Financial Economics**  
 Brigham Young University–Idaho (Expected July 2025)  
-*Minor: Data Science*
+*Minor: Data Science*  - 
 *Cluester: Statistics*
 
 ---
